@@ -3,7 +3,9 @@
 Sistema inteligente que controla la velocidad de un motor DC mediante gestos manuales detectados en tiempo real. El proyecto integra visión computacional con sistemas embebidos.
 
 ---
-
+## 🎥 Demo del Proyecto
+Video de demostración en TikTok:  
+[Ver en TikTok](https://www.tiktok.com/@jhairoypp/video/7547905001130085639)
 ## 📂 Estructura del Proyecto
 
 El proyecto se divide en dos componentes principales:
