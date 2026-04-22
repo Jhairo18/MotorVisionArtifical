@@ -92,4 +92,4 @@ Este proyecto sienta las bases para diversas implementaciones en tecnología e i
 ---
 
 ## 👨‍💻 Autor
-**Jhairo Yurivilca**
+**Jhairo Yurivilca & Romina Yurivilca**
